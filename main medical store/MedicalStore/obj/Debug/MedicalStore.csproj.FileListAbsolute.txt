@@ -1,0 +1,26 @@
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\bin\Debug\MedicalStore.exe.config
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\bin\Debug\MedicalStore.exe
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\bin\Debug\MedicalStore.pdb
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.csprojAssemblyReference.cache
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.AddMedicine.resources
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.MainForm.resources
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.NewBill.resources
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.Properties.Resources.resources
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.SavedBills.resources
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.csproj.GenerateResource.cache
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.exe
+C:\Users\sireesha.karuparthi\Pictures\MedicalStore-master\MedicalStore\obj\Debug\MedicalStore.pdb
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\bin\Debug\MedicalStore.exe.config
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\bin\Debug\MedicalStore.exe
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\bin\Debug\MedicalStore.pdb
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.csprojAssemblyReference.cache
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.AddMedicine.resources
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.MainForm.resources
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.NewBill.resources
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.Properties.Resources.resources
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.SavedBills.resources
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.csproj.GenerateResource.cache
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.exe
+C:\Users\sireesha.karuparthi\Pictures\main medical store\MedicalStore\obj\Debug\MedicalStore.pdb
